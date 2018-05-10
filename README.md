@@ -5,9 +5,13 @@ Example 1:
 ------------------
 Need for this web_scrapping:
     
-    while downloading the lecture videos from NPTL sities, I found out, we have to manually doanload each video. Also some of the Downloaded videos are not in proper order. Even if we retrieve from the youtube playlist most of the playlist are suffled.Hence, its hard to properly download the videos. 
-    Since most of the donwloder (like bitcomet, IDM and so on) comes with the option of batch download.(i.e we have to provide the url, then these downloader will download all the videos for us).
-    Just for the own statisfication, i wrote a program, which will fetch the videos and save the links in both .csv and .txt file.
+        while downloading the lecture videos from NPTL sities, I found out, we have to manually doanload each video.
+    Also some of the Downloaded videos are not in proper order. Even if we retrieve from the youtube playlist 
+    most of the playlist are suffled.Hence, its hard to properly download the videos. 
+        Since most of the donwloder (like bitcomet, IDM and so on) comes with the option of batch download.
+    (i.e we have to provide the url, then these downloader will download all the videos for us).
+        Just for the own statisfication, i wrote a program, which will fetch the videos and save the links in 
+    both .csv and .txt file.
    
    Features using my NPTL downloader:
       
