@@ -1,6 +1,6 @@
 # Web_scrapping
 web_scrapping_using_python
-Example 1:
+
 # NPTL DOWNLOADER
 ------------------
 Need for this web_scrapping:
